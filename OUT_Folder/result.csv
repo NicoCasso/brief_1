@@ -1,0 +1,62 @@
+Entreprise: TechCorp
+
+Nom;Fonction;Salaire mensuel;;Statistiques des salaires pour l'entreprise TechCorp:;
+Steve;Chef de projet;11300.00€;;Salaire moyen:;6975.60€;
+Bob;Manager;11000.00€;;Salaire le plus élevé:; 11300.00€;
+Helen;Chef de projet;9500.00€;;Salaire le plus bas:; 3600.00€;
+Mike;Chef de projet;8900.00€;
+Bob;Développeur;7630.00€;
+Fred;Manager;7260.00€;
+Linda;Chef de projet;6800.00€;
+Steve;Chef de projet;6400.00€;
+Charlie;Chef de projet;6400.00€;
+Helen;Testeur;6104.00€;
+Quincy;Testeur;5824.00€;
+Bob;Analyste;5600.00€;
+Karen;Développeur;4620.00€;
+Mike;Testeur;3696.00€;
+Paul;Designer;3600.00€;
+
+Entreprise: DesignWorks
+
+Nom;Fonction;Salaire mensuel;;Statistiques des salaires pour l'entreprise DesignWorks:;
+Oliver;Chef de projet;10700.00€;;Salaire moyen:;6748.11€;
+Oliver;Manager;10450.00€;;Salaire le plus élevé:; 10700.00€;
+Bob;Chef de projet;10000.00€;;Salaire le plus bas:; 3960.00€;
+Emma;Chef de projet;9500.00€;
+Ian;Chef de projet;8200.00€;
+Ian;Chef de projet;7600.00€;
+Jack;Chef de projet;7600.00€;
+Mike;Manager;7040.00€;
+Tina;Testeur;6104.00€;
+Rachel;Testeur;6104.00€;
+Jack;Analyste;6080.00€;
+Helen;Développeur;5320.00€;
+Ian;Testeur;5152.00€;
+Rachel;Analyste;5120.00€;
+Rachel;Testeur;4256.00€;
+George;Développeur;4200.00€;
+Emma;Designer;4080.00€;
+Jack;Designer;3960.00€;
+
+Entreprise: ProjectLead
+
+Nom;Fonction;Salaire mensuel;;Statistiques des salaires pour l'entreprise ProjectLead:;
+Bob;Manager;11330.00€;;Salaire moyen:;6945.88€;
+Charlie;Manager;10120.00€;;Salaire le plus élevé:; 11330.00€;
+Steve;Chef de projet;9500.00€;;Salaire le plus bas:; 4480.00€;
+Charlie;Chef de projet;8500.00€;
+Tina;Manager;8140.00€;
+Oliver;Chef de projet;7900.00€;
+Nina;Analyste;7600.00€;
+Rachel;Designer;6540.00€;
+Jack;Chef de projet;6200.00€;
+Jack;Designer;6180.00€;
+Fred;Testeur;5992.00€;
+Jack;Testeur;5768.00€;
+Steve;Designer;5340.00€;
+Linda;Développeur;5110.00€;
+Oliver;Développeur;4900.00€;
+Mike;Développeur;4480.00€;
+Linda;Testeur;4480.00€;
+
